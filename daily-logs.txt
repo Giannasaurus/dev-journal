@@ -1,3 +1,4 @@
+20260106: Rest day
 20260105: Continued learning JS
 20260104: Strengthened JavaScript fundamentals with Meta Full Stack Web Development in Coursera, modified the codehs.com repo | [Going-Over-The-Fundamentals](https://github.com/Giannasaurus/going-over-the-fundamentals)
 20260103: Did hard SQL exercises in sql-practice.com, improved and added to the Notion Catalogue
