@@ -1,3 +1,6 @@
+20260112: Continued *Thoughts*
+20260111: Finalized my resume and applied for internship
+20260110: Rest day
 20260109: Rest day
 20260108: Rest day
 20260107: Continued learning JS and other topics
@@ -5,5 +8,5 @@
 20260105: Continued learning JS
 20260104: Strengthened JavaScript fundamentals with Meta Full Stack Web Development in Coursera, modified the codehs.com repo | [Going-Over-The-Fundamentals](https://github.com/Giannasaurus/going-over-the-fundamentals)
 20260103: Did hard SQL exercises in sql-practice.com, improved and added to the Notion Catalogue
-20260102: Drafted the scaling of backend storage solution from localStorage to MongoDB, archived my 2025 README profile
+20260102: Drafted the scaling of backend storage solution from localStorage to MongoDB (*Thoughts*), archived my 2025 README profile
 20260101: Began going over my webdev fundamentals, practiced localStorage
