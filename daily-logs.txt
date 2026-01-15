@@ -1,3 +1,4 @@
+20260115: Continued learning JS
 20260114: Learned Mongosh, Atlas, and Compass; Learned more JS
 20260113: Learned a bit of JS and MongoDB I think
 20260112: Continued *Thoughts*
