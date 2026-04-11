@@ -1,3 +1,5 @@
+20260410: Applied for an internship in LinkedIn. I hope I get an offer letter.
+20260116: Rest day
 20260115: Continued learning JS
 20260114: Learned Mongosh, Atlas, and Compass; Learned more JS
 20260113: Learned a bit of JS and MongoDB I think
