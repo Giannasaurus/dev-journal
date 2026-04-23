@@ -1,17 +1,34 @@
-20260410: Applied for an internship in LinkedIn. I hope I get an offer letter.
+20260415: 20260414: Some more `task-cli` modifications to further clean the repo.
+20260413: Used Kiro to open 5 new issues, patch them, and push to `task-cli`. Amazing
+20260412: Revamped `awesome-udemy-courses` (I miss archiving)
+20260411: Practiced a bit before InterCICSkwela coding competition. Post-competition Update: LOL
+20260410: Applied for an internship in LinkedIn, hope I get an offer letter. Day 2 of AWSCC Workshop.
+20260409: Day 1 of AWSCC Workshop!
+20260408: Not much... 
+20260407: Planning to work on my first Data Science project `predictive-dashboard` from a Simplilearn webinar.
+20260406: Added a few API endpoints in `dumbAPIproject`, began working on a summary page and add resident button in `project-724`.
+20260405: Create basic API in `dumbAPIproject`, setup was stressful. Worked on the data table in `project-724`.
+20260404: Started `dumbAPIproject`, my entry point to TypeScript
+20260403: Rest day
+20260402: Rest day
+20260401: Rest day
+20260331: Still sad
+20260330: Incredibly sad knowing I will never get to live that day again. 
+20260329: Sad
+20260328: YSES26 Pitch Day in UPLB! One of the happiest days in my life. 
 20260116: Rest day
 20260115: Continued learning JS
 20260114: Learned Mongosh, Atlas, and Compass; Learned more JS
 20260113: Learned a bit of JS and MongoDB I think
 20260112: Continued *Thoughts*
-20260111: Finalized my resume and applied for internship
-20260110: Rest day
+20260111: Finalized my resume and applied for internship  
+20260110: Rest day 
 20260109: Rest day
 20260108: Rest day
 20260107: Continued learning JS and other topics
 20260106: Rest day
 20260105: Continued learning JS
-20260104: Strengthened JavaScript fundamentals with Meta Full Stack Web Development in Coursera, modified the codehs.com repo | [Going-Over-The-Fundamentals](https://github.com/Giannasaurus/going-over-the-fundamentals)
+20260104: Strengthened JavaScript fundamentals with Meta Full Stack Web Development in Coursera, modified the codehs.com repo
 20260103: Did hard SQL exercises in sql-practice.com, improved and added to the Notion Catalogue
 20260102: Drafted the scaling of backend storage solution from localStorage to MongoDB (*Thoughts*), archived my 2025 README profile
 20260101: Began going over my webdev fundamentals, practiced localStorage
